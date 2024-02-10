@@ -1,0 +1,80 @@
+[
+  {
+    "key": "AAJI",
+    "base_color": "#eb900c",
+    "text_color": "#FFF",
+    "company": "Asosiasi Asuransi Jiwa Indonesia",
+    "position": "Fullstack Web Developer",
+    "location": "Jakarta, Indonesia",
+    "start_date": "2021-06-01",
+    "end_date": null,
+    "type": "Contract / Freelance",
+    "website": "https://aaji.or.id",
+    "description": null
+  },
+  {
+    "key": "SIKALEM",
+    "base_color": "#3282B8",
+    "text_color": "#FFF",
+    "company": "Direktorat Jenderal Pendidikan Tinggi",
+    "position": "Web Developer - Sikalem DIKTI",
+    "location": "Jakarta, Indonesia",
+    "start_date": "2022-08-01",
+    "end_date": null,
+    "type": "Freelance",
+    "website": "https://kemendikbud.go.id",
+    "description": null
+  },
+  {
+    "key": "GUCC",
+    "base_color": "#892CDC",
+    "text_color": "#ECC8FF",
+    "company": "Gunadarma University Computing Center",
+    "position": "Developer Assistant",
+    "location": "Depok, Indonesia",
+    "start_date": "2020-11-01",
+    "end_date": null,
+    "type": "Contract",
+    "website": "https://gunadarma.ac.id",
+    "description": null
+  },
+  {
+    "key": "JakLingko",
+    "base_color": "#51AB90",
+    "text_color": "#FFF",
+    "company": "PT Jakarta Lingko Indonesia",
+    "position": "IT Developer Intern",
+    "location": "Jakarta, Indonesia",
+    "start_date": "2022-08-01",
+    "end_date": "2022-12-31",
+    "type": "Internship",
+    "website": "https://www.jaklingkoindonesia.co.id",
+    "description": null
+  },
+  {
+    "key": "SIAGA",
+    "base_color": "#3282B8",
+    "text_color": "#FFF",
+    "company": "Direktorat Jenderal Pendidikan Tinggi",
+    "position": "Web Developer - Siaga DIKTI",
+    "location": "Jakarta, Indonesia",
+    "start_date": "2022-03-01",
+    "end_date": "2023-05-31",
+    "type": "Freelance",
+    "website": "https://kemendikbud.go.id",
+    "description": null
+  },
+  {
+    "key": "AEROSMART",
+    "base_color": "#BBE1FA",
+    "text_color": "#1B262C",
+    "company": "CV Aero Smart Technology",
+    "position": "Student Intern",
+    "location": "Bogor, Indonesia",
+    "start_date": "2018-03-01",
+    "end_date": "2018-05-31",
+    "type": "Internship",
+    "website": null,
+    "description": null
+  }
+]
