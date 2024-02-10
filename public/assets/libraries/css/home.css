@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background-color: #1B262C !important;
+}
+
+.navbar-brand {
+    color: #BBE1FA !important;
+    font-weight: bold !important;
+}
+
+.navbar {
+    /* background-color: #BBE1FA !important; */
+    color: #0F4C75 !important;
+    padding-bottom: 2% !important;
+    border: none !important;
+}
+
+.nav-link {
+    color: #0F4C75 !important;
+    font-weight: bold !important;
+}
+
+.container-navbar {
+    max-width: 30% !important;
+    text-align: center !important;
+    margin: auto !important;
+}
+
+.nav {
+    background-color: #BBE1FA !important;
+    border-radius: 25px !important;
+    margin: auto !important;
+    text-decoration: none !important;
+}
+
+.nav-item a {
+    text-decoration: none !important;
+}
+
+header {
+    margin-top: 150px !important;
+    color: #BBE1FA !important;
+}
+
+.color-dark {
+    color: #3282B8 !important;
+    font-weight: bold !important;
+}
+
+.primary-button {
+    background-color: #3282B8 !important;
+    color: #BBE1FA !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+    padding: 5px 50px 5px 50px !important;
+}
+
+.primary-button:hover {
+    background-color: #BBE1FA !important;
+    color: #1B262C !important;
+}
+
+.bg-dark:hover {
+    background-color: #BBE1FA !important;
+    color: #1B262C !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+    padding: 20px 125px 20px 125px !important;
+}
+
+.btn-outline-primary {
+    background-color: #BBE1FA !important;
+    color: #1B262C !important;
+    font-weight: bold !important;
+}
+
+.bg-darkest {
+    background-color: #1B262C !important;
+}
+
+.title {
+    color: #3282B8 !important;
+    text-align: center !important;
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: bold !important;
+    font-size: 45px;
+}
+
+a.hoverin:hover {
+    background-color: #BBE1FA !important;
+    color: #1B262C !important;
+}
+.nata-text{
+    color: #BBE1FA !important;
+}
+.nata-text-primary {
+    color: #1B262C !important;
+}
+.nata-text-secondary {
+    color: #0F4C75 !important;
+}
+.nata-text-thirdy {
+    color: #3282B8 !important;
+}
+
+p {
+    color: #BBE1FA;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mt-10 {
+    margin-top: 100px !important;
+}
+
+img.images:hover {
+    min-width: 160px !important;
+}
+

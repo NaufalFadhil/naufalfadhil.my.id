@@ -1,0 +1,280 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  background-color: #1B262C !important;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+h1 {
+  color: #BBE1FA !important;
+}
+
+.img-center {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 60% !important;
+}
+
+.navbar-dark {
+  color: #BBE1FA !important;
+}
+
+.navbar-dark a {
+  color: #BBE1FA !important;
+}
+
+/* .bg-dark {
+  background-color: #1B262C !important;
+} */
+
+.bg-dark a {
+  color: #BBE1FA !important;
+}
+
+nav.navbar .navbar-brand {
+  color: #BBE1FA !important;
+  font-weight: bold !important;
+}
+
+nav.navbar .navbar-nav .nav-item a.nav-link {
+  color: #BBE1FA !important;
+  text-decoration: none !important;
+}
+
+nav.navbar .navbar-nav .nav-item a.nav-link:hover {
+  color: #3282B8 !important;
+  text-decoration: none !important;
+}
+
+.mt-10 {
+  margin-top: 100px !important;
+}
+
+.text-bold {
+  font-weight: bold !important;
+}
+
+#myBtn {
+  display: none !important;
+  /* Hidden by default */
+  position: fixed !important;
+  /* Fixed/sticky position */
+  bottom: 20px !important;
+  /* Place the button at the bottom of the page */
+  right: 30px !important;
+  /* Place the button 30px from the right */
+  z-index: 99 !important;
+  /* Make sure it does not overlap */
+  border: none !important;
+  /* Remove borders */
+  outline: none !important;
+  /* Remove outline */
+  background-color: #3282B8 !important;
+  /* Set a background color */
+  color: #BBE1FA !important;
+  /* Text color */
+  cursor: pointer !important;
+  /* Add a mouse pointer on hover */
+  padding: 15px !important;
+  /* Some padding */
+  border-radius: 10px !important;
+  /* Rounded corners */
+  font-size: 18px !important;
+  /* Increase font size */
+  font-weight: bold !important;
+}
+
+#myBtn:hover {
+  background-color: #0F4C75 !important;
+  /* Add a dark-grey background on hover */
+  color: #BBE1FA !important;
+  font-weight: bold !important;
+}
+
+header#header-link h5 {
+  color: #BBE1FA !important;
+}
+
+main.main-skills p, main.main-skills h1, main.main-skills h3 {
+  color: #BBE1FA !important;
+}
+
+main.main-skills h2 {
+  color: #BBE1FA !important;
+  margin-left: 20px !important;
+  margin-top: 10px !important;
+}
+
+main.main-skills .card-group img {
+  margin-top: 30px !important;
+}
+
+main.main-skills .card-group .card {
+  background-color: #BBE1FA !important;
+  max-width: 14% !important;
+}
+
+main.main-skills .card-group .card a {
+  text-decoration: none !important;
+}
+
+main.main-skills .card-group .card h5 {
+  color: black !important;
+}
+
+main.main-skills .card-group .card .card-footer small {
+  font-weight: bold !important;
+}
+
+main.main-skills .card-group .card.top-skill-card:hover {
+  background-color: #0F4C75 !important;
+  color: #1B262C !important;
+}
+
+main.main-skills .card-group .card.top-skill-card:hover .text-muted, main.main-skills .card-group .card.top-skill-card:hover .card-title {
+  color: #BBE1FA !important;
+}
+
+/* main#main-link a, main#main-link button {
+  text-decoration: none !important;
+  color: #BBE1FA !important;
+  width: 250px !important;
+  height: 50px !important;
+  border-radius: 25px !important;
+  padding-top: 13px !important;
+} */
+
+main#main-link a:hover, main#main-link button:hover {
+  background-color: #BBE1FA !important;
+  color: #1B262C !important;
+}
+
+main#main-link a.btn-sec, main#main-link button.btn-sec {
+  background-color: #0F4C75 !important;
+}
+
+main#main-link a.btn-ter, main#main-link button.btn-ter {
+  background-color: #3282B8 !important;
+}
+
+main#main-link a.btn-danger, main#main-link button.btn-danger {
+  color: #1B262C !important;
+  font-weight: bold !important;
+}
+
+main#main-link a.btn-danger:hover, main#main-link button.btn-danger:hover {
+  color: #1B262C !important;
+  font-weight: bold !important;
+}
+
+main#main-achievements .card {
+  background-color: #0F4C75 !important;
+  color: #BBE1FA !important;
+}
+
+main#main-achievements .card img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  height: 150px !important;
+  text-align: center !important;
+  padding: 10% !important;
+}
+
+main#main-achievements .card .card-body {
+  max-height: 180px !important;
+}
+
+main#main-achievements .card .card-body h5 {
+  -webkit-box-pack: center !important;
+      -ms-flex-pack: center !important;
+          justify-content: center !important;
+}
+
+main#main-achievements .card .card-body h5 span {
+  -webkit-box-pack: center !important;
+      -ms-flex-pack: center !important;
+          justify-content: center !important;
+  font-weight: bold !important;
+}
+
+main#main-achievements .card .card-body p {
+  -webkit-box-pack: center !important;
+      -ms-flex-pack: center !important;
+          justify-content: center !important;
+}
+
+main#main-achievements .card .card-body p .text-muted {
+  color: #3282B8 !important;
+  font-weight: bold !important;
+}
+
+#support-page a {
+  text-decoration: none !important;
+}
+
+#support-page a .card {
+  background-color: #BBE1FA !important;
+  color: #1B262C !important;
+  padding: 70px !important;
+}
+
+#support-page a .card h1 {
+  color: #1B262C !important;
+}
+
+#support-page a .card.thanks {
+  background-color: #1B262C !important;
+  padding: 70px 0 !important;
+}
+
+#support-page a:hover .card {
+  background-color: #1B262C !important;
+}
+
+#support-page a:hover .card h1 {
+  color: #BBE1FA !important;
+}
+
+#project-page .card {
+  background-color: #3282B8 !important;
+  color: #BBE1FA !important;
+}
+
+@media (max-width: 992px) {
+  main.main-skills p, main.main-skills h1, main.main-skills h3 {
+    color: #BBE1FA !important;
+  }
+  main.main-skills h2 {
+    color: #BBE1FA !important;
+    margin-left: 20px !important;
+    margin-top: 10px !important;
+  }
+  main.main-skills .card-group img {
+    margin-top: 30px !important;
+    max-width: 20% !important;
+  }
+  main.main-skills .card-group .card {
+    background-color: #BBE1FA !important;
+    max-width: 100% !important;
+  }
+  main.main-skills .card-group .card a {
+    text-decoration: none !important;
+  }
+  main.main-skills .card-group .card h5 {
+    color: black !important;
+    margin: 20px !important;
+    text-align: center !important;
+  }
+  main.main-skills .card-group .card .card-footer small {
+    font-weight: bold !important;
+  }
+  main.main-skills .card-group .card.top-skill-card:hover {
+    background-color: #3282B8 !important;
+    color: #1B262C !important;
+  }
+  main.main-skills .card-group .card.top-skill-card:hover .text-muted, main.main-skills .card-group .card.top-skill-card:hover .card-title {
+    color: #BBE1FA !important;
+  }
+}
+/*# sourceMappingURL=main.css.map */
