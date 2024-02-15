@@ -18,7 +18,7 @@ interface Experience {
 export default function EducationTimeline() {
   return (
     <section id="education" className="align-content-center mt-10">
-      <h2 className="title m-3 mb-4">Education</h2>
+      <h2 className="title m-3 mb-4">Formal Education</h2>
       <div className={Styles.timeline}>
         <Container 
           name="Gunadarma University"

@@ -1,0 +1,56 @@
+[
+  {
+    "key": "gigih",
+    "institute": "Generasi Gigih by Gojek Tokopedia Impact Foundation",
+    "logo": "/public/images/logo/gen-gigih.png",
+    "start_year": 2022
+  },
+  {
+    "key": "buildwithangga",
+    "institute": "BuildWith Angga",
+    "logo": "/public/images/logo/buildwithangga.png",
+    "start_year": 2020
+  },
+  {
+    "key": "dicoding",
+    "institute": "Dicoding Indonesia",
+    "logo": "/public/images/logo/dicoding.png",
+    "start_year": 2018
+  },
+  {
+    "key": "gdsc_gunadarma",
+    "institute": "Google Developer Student Club Gunadarma University",
+    "logo": "/public/images/logo/gdsc.png",
+    "start_year": 2019
+  },
+  {
+    "key": "kelas_terbuka",
+    "institute": "Kelas Terbuka",
+    "logo": "/public/images/logo/kelas-terbuka.png",
+    "start_year": 2019
+  },
+  {
+    "key": "pzn",
+    "institute": "Programmer Zaman Now",
+    "logo": "/public/images/logo/pzn.png",
+    "start_year": 2021
+  },
+  {
+    "key": "progate",
+    "institute": "Progate",
+    "logo": "/public/images/logo/progate.png",
+    "start_year": 2022
+  },
+  {
+    "key": "wpu",
+    "institute": "Web Programming UNPAS",
+    "logo": "/public/images/logo/web-programming-unpas.png",
+    "start_year": 2019
+  },
+  {
+    "key": "insinyur_online",
+    "institute": "Insinyur Online",
+    "logo": "/public/images/logo/insinyur-online.png",
+    "start_year": 2022
+  }
+]
