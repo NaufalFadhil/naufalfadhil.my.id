@@ -3,7 +3,7 @@ import Style from '../../styles/Home.module.css'
 
 export default function Features() {
   return (
-    <section className="mt-10">
+    <section>
         <div>
             <h2 className="title m-3">
                 Features
@@ -11,7 +11,7 @@ export default function Features() {
             <div className="row row-cols-2 row-cols-md-3 row-cols-lg-6">
                 <div className="col">
                     <div className={Style.imageContainer}>
-                          <Image className="images" src="assets/images/button/button-achievement.svg" alt="button achievement" width={180} height={180} />
+                        <Image className="images" src="assets/images/button/button-achievement.svg" alt="button achievement" width={180} height={180} />
                     </div>
                 </div>
                 <div className="col">
