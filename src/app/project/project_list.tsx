@@ -7,10 +7,11 @@ import Badges from '@/components/Badges';
 
 export default function ProjectList() {
     const [projects, setProjects] = useState(projectData);
+
     return (
         <section id="project-page" className="container" style={{ marginTop: '8%' }}>
             <h1 className="text-center mt-3 mb-4">My Portofolio</h1>
-            <div className="row row-cols-1 row-cols-md-2 g-4 mb-5">
+            <div className="row row-cols-1 row-cols-md-3 g-4 mb-5">
                 {projects.map((project) => (
                     <div className="col" key={project.id}>
                         <div className="card h-100">
@@ -26,14 +27,14 @@ export default function ProjectList() {
                             />
                             <div className="card-body">
                                 <h4 className="card-title">{project.title}</h4>
-                                <p className="card-text" style={{ minHeight: '3.0em' }}>{project.description}</p>
-                                <div style={{ display: 'flex', flexDirection: 'row' }} className='mx-1'>
+                                <p className="card-text" style={{ minHeight: '4.5em' }}>{project.description}</p>
+                                <div style={{ display: 'flex', flexWrap: 'wrap' }} className='mx-1'>
                                     {project.provider.map((provider) => (
                                         <Badges key={provider.id} logo={provider.logo} url={provider.url} />
                                     ))}
                                 </div>
                                 <hr />
-                                <div style={{ display: 'flex', flexDirection: 'row' }} className='mx-1'>
+                                <div style={{ display: 'flex', flexWrap: 'wrap' }} className='mx-1'>
                                     {project.stack.map((badge, index) => (
                                         <Badges key={index} logo={badge} />
                                     ))}
