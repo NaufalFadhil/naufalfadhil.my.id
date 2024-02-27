@@ -27,9 +27,9 @@ h1 {
   background-color: #1B262C !important;
 } */
 
-.bg-dark a {
+/* .bg-dark a {
   color: #BBE1FA !important;
-}
+} */
 
 nav.navbar .navbar-brand {
   color: #BBE1FA !important;
@@ -239,6 +239,14 @@ main#main-achievements .card .card-body p .text-muted {
 #project-page .card {
   background-color: #3282B8 !important;
   color: #BBE1FA !important;
+}
+
+.clickable1x:hover {
+  transform: scale(1.1) !important;
+}
+
+.clickable2x:hover {
+  transform: scale(1.2) !important;
 }
 
 @media (max-width: 992px) {

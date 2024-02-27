@@ -1,0 +1,217 @@
+[
+  {
+    "id": "personal-website",
+    "title": "Personal Website",
+    "description": "My personal website for collect my portofolio in one site.",
+    "url": "https://naufalfadhil.my.id",
+    "thumbnail": "/assets/images/projects/personal-website.svg",
+    "provider": [
+      {
+        "id": "personal-website-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/naufalfadhil.github.io"
+      },
+      {
+        "id": "personal-website-github-hosted",
+        "logo": "Github Hosted",
+        "url": "https://naufalfadhil.github.io"
+      },
+      {
+        "id": "personal-website-netlify-hosted",
+        "logo": "Netlify Hosted",
+        "url": "https://naufalfadhil.netlify.app"
+      }
+    ],
+    "stack": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "SASS",
+      "Bootstrap 5"
+    ],
+    "type": "Website",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "dicoding-github-user",
+    "title": "Github User",
+    "description": "Submission project Learn Fundamental Android Application Course at dicoding.com",
+    "url": null,
+    "thumbnail": "/assets/images/projects/github-user.svg",
+    "provider": [
+      {
+        "id": "dicoding-github-user-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/Android_Dicoding_GithubUser"
+      }
+    ],
+    "stack": [
+      "Kotlin",
+      "SQLite",
+      "API"
+    ],
+    "type": "Mobile",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "dicoding-google-university",
+    "title": "Google University",
+    "description": "Competition/Challenge at dicoding.com collaboration with IDCamp (Indosat Ooreedo Digital Camp)",
+    "url": null,
+    "thumbnail": "/assets/images/projects/google-university.svg",
+    "provider": [
+      {
+        "id": "dicoding-google-university-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/google-university"
+      },
+      {
+        "id": "dicoding-google-university-github-hosted",
+        "logo": "Github Hosted",
+        "url": "https://naufalfadhil.github.io/google-university"
+      }
+    ],
+    "stack": [
+      "HTML",
+      "CSS",
+      "Bootstrap 5"
+    ],
+    "type": "Website",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "dicoding-dicost",
+    "title": "Dicost: Search your temporary home",
+    "description": "Submission project Learn Make Multiplatform Application for Beginner Course at dicoding.com",
+    "url": null,
+    "thumbnail": "/assets/images/projects/dicost.svg",
+    "provider": [
+      {
+        "id": "dicoding-dicost-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/Flutter_Dicoding_Dicost"
+      }
+    ],
+    "stack": [
+      "Dart",
+      "Flutter"
+    ],
+    "type": "Mobile",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "jaklingko-mailing-system-mobile",
+    "title": "Jaklingko Mailing System Mobile Apps",
+    "description": "Project Magang Bersetifikat Kampus Merdeka at PT Jakarta Lingko Indonesia",
+    "url": null,
+    "thumbnail": "/assets/images/projects/jaklingko-mailing-mobile.svg",
+    "provider": [
+      {
+        "id": "dicoding-dicost-github-repository",
+        "logo": "Github Private",
+        "url": null
+      }
+    ],
+    "stack": [
+      "Javascript",
+      "Node.js",
+      "React Native",
+      "Express.js"
+    ],
+    "type": "Mobile",
+    "withBackend": true,
+    "softdelete": false
+  },
+  {
+    "id": "jaklingko-mailing-system",
+    "title": "Jaklingko Mailing System Website",
+    "description": "Project Magang Bersetifikat Kampus Merdeka at PT Jakarta Lingko Indonesia",
+    "url": null,
+    "thumbnail": "/assets/images/projects/jaklingko-mailing-system.svg",
+    "provider": [
+      {
+        "id": "dicoding-dicost-github-repository",
+        "logo": "Github Private",
+        "url": null
+      }
+    ],
+    "stack": [
+      "Javascript",
+      "Node.js",
+      "React.js",
+      "Express.js"
+    ],
+    "type": "Website",
+    "withBackend": true,
+    "softdelete": false
+  },
+  {
+    "id": "bwa-staycation",
+    "title": "Staycation",
+    "description": "Course Project Fullstack Javascript Developer at buildwithangga.com",
+    "url": null,
+    "thumbnail": "/assets/images/projects/staycation.svg",
+    "provider": [
+      {
+        "id": "bwa-staycation-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/Website_BWA_Staycation"
+      }
+    ],
+    "stack": [
+      "Javascript",
+      "Node.js",
+      "React.js"
+    ],
+    "type": "Website",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "dicoding-planet-information",
+    "title": "Planet Information",
+    "description": "Submission project Learn Make Android Application for Beginner Course at dicoding.com",
+    "url": null,
+    "thumbnail": "/assets/images/projects/info-planet.svg",
+    "provider": [
+      {
+        "id": "dicoding-planet-information-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/Android_Dicoding_Planet"
+      }
+    ],
+    "stack": [
+      "Android",
+      "Java"
+    ],
+    "type": "Mobile",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "bwa-nomads",
+    "title": "Nomads",
+    "description": "Submission project Learn Make Android Application for Beginner Course at dicoding.com",
+    "url": null,
+    "thumbnail": "/assets/images/projects/nomads.svg",
+    "provider": [
+      {
+        "id": "bwa-nomads-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/Website_BWA_Nomads"
+      }
+    ],
+    "stack": [
+      "PHP",
+      "Laravel",
+      "MySQL"
+    ],
+    "type": "Website",
+    "withBackend": false,
+    "softdelete": false
+  }
+]

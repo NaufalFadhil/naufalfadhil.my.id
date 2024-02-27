@@ -6,22 +6,22 @@ export default function Navigation() {
   return (
     <nav className="navbar bg-darkest border-5 fixed-top container">
         <div id={Style.navbarBrand} className="mt-4">
-            <a className="navbar-brand" href="#">Naufal Fadhil</a>
+            <a className="navbar-brand" href="/">Naufal Fadhil</a>
         </div>
         <div id={Style.longNavigation} className="me-5 text-center">
             <ul className="nav mt-3" >
                 <li className="nav-item px-3">
-                  <Link href="/article">
+                  <Link href="/articles">
                       <div className="nav-link">ARTICLE</div>
                   </Link>
                 </li>
                 <li className="nav-item px-3">
-                  <Link href="/certificate">
+                  <Link href="/certificates">
                       <div className="nav-link">CERTIFICATE</div>
                   </Link>
                 </li>
                 <li className="nav-item px-3">
-                  <Link href="/project">
+                  <Link href="/projects">
                       <div className="nav-link">PROJECT</div>
                   </Link>
                 </li>
@@ -30,20 +30,20 @@ export default function Navigation() {
         <div id={Style.shortNavigation}>
             <ul className="nav">
                 <li className="nav-item">
-                    <a className="nav-link" href="index.html">
+                    <a className="nav-link" href="/">
                         <img src="assets/images/logo/logo-home.svg" />
                     </a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="articles/">
+                    <a className="nav-link" href="/articles">
                         <img src="assets/images/logo/logo-blog.svg" />
                     </a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="certificates/"><img src="assets/images/logo/logo-certificate.svg" /></a>
+                    <a className="nav-link" href="/certificates"><img src="assets/images/logo/logo-certificate.svg" /></a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="projects/"><img src="assets/images/logo/logo-project.svg" /></a>
+                    <a className="nav-link" href="/projects"><img src="assets/images/logo/logo-project.svg" /></a>
                 </li>
             </ul>
         </div>
