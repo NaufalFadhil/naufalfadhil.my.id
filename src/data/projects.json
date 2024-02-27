@@ -148,5 +148,70 @@
     "type": "Website",
     "withBackend": true,
     "softdelete": false
+  },
+  {
+    "id": "bwa-staycation",
+    "title": "Staycation",
+    "description": "Course Project Fullstack Javascript Developer at buildwithangga.com",
+    "url": null,
+    "thumbnail": "/assets/images/projects/staycation.svg",
+    "provider": [
+      {
+        "id": "bwa-staycation-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/Website_BWA_Staycation"
+      }
+    ],
+    "stack": [
+      "Javascript",
+      "Node.js",
+      "React.js"
+    ],
+    "type": "Website",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "dicoding-planet-information",
+    "title": "Planet Information",
+    "description": "Submission project Learn Make Android Application for Beginner Course at dicoding.com",
+    "url": null,
+    "thumbnail": "/assets/images/projects/info-planet.svg",
+    "provider": [
+      {
+        "id": "dicoding-planet-information-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/Android_Dicoding_Planet"
+      }
+    ],
+    "stack": [
+      "Android",
+      "Java"
+    ],
+    "type": "Mobile",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "bwa-nomads",
+    "title": "Nomads",
+    "description": "Submission project Learn Make Android Application for Beginner Course at dicoding.com",
+    "url": null,
+    "thumbnail": "/assets/images/projects/nomads.svg",
+    "provider": [
+      {
+        "id": "bwa-nomads-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/Website_BWA_Nomads"
+      }
+    ],
+    "stack": [
+      "PHP",
+      "Laravel",
+      "MySQL"
+    ],
+    "type": "Website",
+    "withBackend": false,
+    "softdelete": false
   }
 ]

@@ -26,9 +26,14 @@ function BadgeItems(logo: string) {
       {logo === 'Node.js' && (<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />)}
       {logo === 'Express.js' && (<img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />)}
 
+      {logo === 'PHP' && (<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />)}
       {logo === 'Python' && (<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />)}
       {logo === 'Flask' && (<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />)}
       {logo === 'Django' && (<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />)}
+      {logo === 'Laravel' && (<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />)}
+      {logo === 'Codeigniter' && (<img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" />)}
+      {logo === 'Springboot' && (<img alt="Springboot" src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />)}
+      {logo === 'Golang' && (<img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />)}
 
       {logo === 'Github Repository' && (<img alt="GitHub" src="https://img.shields.io/badge/REPOSITORY-%23323330.svg?style=for-the-badge&logo=GITHUB&logoColor=white" />)}
       {logo === 'Github Hosted' && (<img alt="Github Hosted" src="https://img.shields.io/badge/HOSTED-%23323330.svg?style=for-the-badge&logo=GITHUB&logoColor=white" />)}
@@ -39,7 +44,7 @@ function BadgeItems(logo: string) {
       {logo === 'Play Store' && (<img alt="Play Store" src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />)}
 
       {logo === 'Kotlin' && (<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />)}
-      {logo === 'Java' && (<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />)}
+      {logo === 'Java' && (<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />)}
       {logo === 'Dart' && (<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />)}
       {logo === 'Flutter' && (<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />)}
       {logo === 'Android' && (<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />)}

@@ -28,7 +28,8 @@ export default function ProjectList(props: ProjectListProps) {
 
     return (
         <section id="project-page" className="container">
-            <h1 className="text-center mt-4 mb-4">My Portofolio</h1>
+            <h1 className="text-center mt-4">My Portofolio</h1>
+            <p className='text-center mb-3'>Load {filteredProjects.length} of {projectData.length} projects</p>
             <div className="row row-cols-1 row-cols-md-3 g-4 mb-5">
                 {filteredProjects.map((project) => (
                     <div className="col" key={project.id}>
@@ -68,7 +69,6 @@ export default function ProjectList(props: ProjectListProps) {
                     </div>
                 ))}
             </div>
-            <p className='text-center'>Load {filteredProjects.length} of {projectData.length} projects</p>
         </section>
     )
 }
