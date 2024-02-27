@@ -7,40 +7,40 @@ interface SearchbarProps {
 
 export default function Searchbar(props: SearchbarProps) {
   const { onSearchChangeHandler } = props;
-  const router = useRouter();
-    const pathName = usePathname();
-    const searchParams = useSearchParams();
+    // const router = useRouter();
+    // const pathName = usePathname();
+    // const searchParams = useSearchParams();
 
-    const [searchInput, setSearchInput] = useState(() => {
-        return searchParams.get('search') || '';
-    });
+    // const [searchInput, setSearchInput] = useState(() => {
+    //     return searchParams.get('search') || '';
+    // });
 
-    const createQueryString = useCallback(
-        (name: string, value: string) => {
-            const params = new URLSearchParams(searchParams.toString())
-            params.set(name, value)
+    // const createQueryString = useCallback(
+    //     (name: string, value: string) => {
+    //         const params = new URLSearchParams(searchParams.toString())
+    //         params.set(name, value)
         
-            return params.toString()
-        },
-        [searchParams]
-    )
+    //         return params.toString()
+    //     },
+    //     [searchParams]
+    // )
 
     function onUrlPathChangeHandler(searchInput: string) {
-        setSearchInput(searchInput);
+        // setSearchInput(searchInput);
         onSearchChangeHandler(searchInput);
-        router.push(pathName + '?' + createQueryString('search', searchInput));
+        // router.push(pathName + '?' + createQueryString('search', searchInput));
     }
 
     function onClickStackFilterHandler(stack: string) {
-        setSearchInput(stack);
+        // setSearchInput(stack);
         onSearchChangeHandler(stack);
-        router.push(pathName + '?' + createQueryString('search', stack));
+        // router.push(pathName + '?' + createQueryString('search', stack));
     }
 
   return (
     <>
       <div id="search-container" className="search-container mb-4 text-center" style={{ marginTop: '10%' }}>
-          <input placeholder="Search Project (ex: Android, Flutter, React, Dicoding, etc.)" id="searchElement" type="search" value={searchInput} onChange={(e) => onUrlPathChangeHandler(e.target.value)} />
+          <input placeholder="Search Project (ex: Android, Flutter, React, Dicoding, etc.)" id="searchElement" type="search" onChange={(e) => onUrlPathChangeHandler(e.target.value)} />
           <button id="searchButtonElement" type="submit" className="btn btn-primary clickable1x">Search</button>
       </div>
       <div className="ms-4" style={{ display: 'flex', flexWrap: 'wrap' }}>
