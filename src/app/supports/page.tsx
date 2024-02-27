@@ -13,14 +13,14 @@ export default function Supports() {
                   <div className="row">
                       <div className="col-sm-6">
                           <a href="https://bit.ly/NaufalFadhil-Saweria">
-                              <div className="card m-5">
+                              <div className="card mt-5">
                                   <h1 className="text-center">saweria.co</h1>
                               </div>
                           </a>
                       </div>
                       <div className="col-sm-6">
                           <a href="https://bit.ly/NaufalFadhil-PayPal">
-                              <div className="card m-5">
+                              <div className="card mt-5">
                                   <h1 className="text-center">Paypal</h1>
                               </div>
                           </a>
