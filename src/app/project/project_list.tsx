@@ -5,14 +5,28 @@ import projectData from '../../data/projects.json';
 import Image from 'next/image';
 import Badges from '@/components/Badges';
 
-export default function ProjectList() {
-    const [projects, setProjects] = useState(projectData);
+interface ProjectListProps {
+    searchInput?: string | null;
+}
+
+export default function ProjectList(props: ProjectListProps) {
+    const { searchInput } = props;
+
+    const filteredProjects = projectData.filter((project) => {
+        // console.log('project.stack', project.stack.filter(str => str.includes(searchInput ? searchInput : '')));
+        // const filteredStack = project.stack.filter(str => str.includes(searchInput ? searchInput : ''));
+        // console.log('filteredStack', filteredStack);
+        // console.log('stack', project.stack.includes(searchInput ? searchInput : ''));
+
+        return searchInput ? project.title.toLowerCase().includes(searchInput.toLowerCase()) || project.stack.includes(searchInput)
+        : projectData;
+    });
 
     return (
-        <section id="project-page" className="container" style={{ marginTop: '8%' }}>
+        <section id="project-page" className="container">
             <h1 className="text-center mt-3 mb-4">My Portofolio</h1>
             <div className="row row-cols-1 row-cols-md-3 g-4 mb-5">
-                {projects.map((project) => (
+                {filteredProjects.map((project) => (
                     <div className="col" key={project.id}>
                         <div className="card h-100">
                             {/* <a href={project.url ? project.url : '#'} target="_blank" rel="noreferrer">

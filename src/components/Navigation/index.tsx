@@ -6,7 +6,7 @@ export default function Navigation() {
   return (
     <nav className="navbar bg-darkest border-5 fixed-top container">
         <div id={Style.navbarBrand} className="mt-4">
-            <a className="navbar-brand" href="#">Naufal Fadhil</a>
+            <a className="navbar-brand" href={'/'}>Naufal Fadhil</a>
         </div>
         <div id={Style.longNavigation} className="me-5 text-center">
             <ul className="nav mt-3" >

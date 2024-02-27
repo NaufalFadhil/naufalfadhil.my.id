@@ -61,13 +61,13 @@ header {
     color: #1B262C !important;
 }
 
-.bg-dark:hover {
+/* .bg-dark:hover {
     background-color: #BBE1FA !important;
     color: #1B262C !important;
     font-weight: bold !important;
     font-size: 20px !important;
     padding: 20px 125px 20px 125px !important;
-}
+} */
 
 .btn-outline-primary {
     background-color: #BBE1FA !important;

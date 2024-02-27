@@ -1,0 +1,29 @@
+body, .search-external-container {
+  background-color: #1B262C;
+  color: #BBE1FA;
+}
+
+/* .bg-dark {
+  background-color: #BBE1FA;
+  color: #0F4C75;
+} */
+
+.btn-primary {
+  background-color: #1B262C !important;
+  color: #BBE1FA !important;
+}
+
+a {
+  color: #BBE1FA !important; 
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0F4C75 !important; 
+  text-decoration: none;
+}
+
+/* Dotted border */
+hr.dashed {
+  border-top: 3px dashed #829cad;
+}
