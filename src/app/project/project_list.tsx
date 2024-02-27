@@ -18,13 +18,17 @@ export default function ProjectList(props: ProjectListProps) {
         // console.log('filteredStack', filteredStack);
         // console.log('stack', project.stack.includes(searchInput ? searchInput : ''));
 
-        return searchInput ? project.title.toLowerCase().includes(searchInput.toLowerCase()) || project.stack.includes(searchInput)
+        if (searchInput === 'Backend') {
+            return project.withBackend;
+        }
+
+        return searchInput ? project.title.toLowerCase().includes(searchInput.toLowerCase()) || project.stack.includes(searchInput) || project.type.includes(searchInput)
         : projectData;
     });
 
     return (
         <section id="project-page" className="container">
-            <h1 className="text-center mt-3 mb-4">My Portofolio</h1>
+            <h1 className="text-center mt-4 mb-4">My Portofolio</h1>
             <div className="row row-cols-1 row-cols-md-3 g-4 mb-5">
                 {filteredProjects.map((project) => (
                     <div className="col" key={project.id}>
@@ -40,7 +44,13 @@ export default function ProjectList(props: ProjectListProps) {
                                 style={{ width: '100%', height: 'auto' }} 
                             />
                             <div className="card-body">
-                                <h4 className="card-title">{project.title}</h4>
+                                {project.withBackend && searchInput === 'Backend' ? (
+                                    <h4 className="card-title">API {project.title}</h4>
+                                ) : project.withBackend ? (
+                                    <h4 className="card-title">{project.title} + Backend</h4>
+                                ) : (
+                                    <h4 className="card-title">{project.title}</h4>
+                                )}
                                 <p className="card-text" style={{ minHeight: '4.5em' }}>{project.description}</p>
                                 <div style={{ display: 'flex', flexWrap: 'wrap' }} className='mx-1'>
                                     {project.provider.map((provider) => (
@@ -58,6 +68,7 @@ export default function ProjectList(props: ProjectListProps) {
                     </div>
                 ))}
             </div>
+            <p className='text-center'>Load {filteredProjects.length} of {projectData.length} projects</p>
         </section>
     )
 }

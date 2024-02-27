@@ -33,6 +33,11 @@ export default function Project() {
         router.push(pathName + '?' + createQueryString('search', searchInput));
     }
 
+    function onClickStackFilterHandler(stack: string) {
+        setSearchInput(stack);
+        router.push(pathName + '?' + createQueryString('search', stack));
+    }
+
     return (
         <>
             <main>
@@ -44,16 +49,20 @@ export default function Project() {
                     </div>
                     <div className="ms-4" style={{ display: 'flex', flexWrap: 'wrap' }}>
                         <p className="mt-4 me-3" style={{ fontWeight: 'bold', fontSize: '1.1em' }}>Filter by Stack:</p>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">Backend</button>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">Mobile</button>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">Website</button>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">Flutter</button>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">React.js</button>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">React Native</button>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">Node.js</button>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">Express.js</button>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">Golang</button>
-                        <button id="filterFlutter" className="btn btn-primary me-3 mt-2 clickable2x">Springboot</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Backend')}>Backend</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Mobile')}>Mobile</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Website')}>Website</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Machine Learning')}>Machine Learning</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Flutter')}>Flutter</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('React.js')}>React.js</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('React Native')}>React Native</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Node.js')}>Node.js</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Express.js')}>Express.js</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Golang')}>Golang</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Springboot')}>Springboot</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Laravel')}>Laravel</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Codeigniter')}>Codeigniter</button>
+                        <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Flask')}>Flask</button>
                     </div>
                     <ProjectList searchInput={searchInput} />
                     <Footer />
