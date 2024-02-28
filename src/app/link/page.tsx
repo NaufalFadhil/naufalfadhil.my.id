@@ -33,12 +33,12 @@ export default function Achievements() {
                     </div>
                     <div className="row">
                         <div className="col-sm-4 mt-4 text-center mx-auto">
-                            <a href="https://bit.ly/3oMF9T1" className="text-center m-2 btn btn-ter">
+                            <a href="https://instagram.com/nf_athallah" className="text-center m-2 btn btn-ter">
                                 Instagram
                             </a>
                         </div>
                         <div className="col-sm-4 mt-4 text-center mx-auto">
-                            <a href="https://bit.ly/3Lunute" className="text-center m-2 btn btn-sec">
+                            <a href="https://twitter.com/nf_athallah" className="text-center m-2 btn btn-sec">
                                 Twitter
                             </a>
                         </div>
@@ -50,7 +50,7 @@ export default function Achievements() {
                     </div>
                     <div className="row">
                         <div className="col-sm-4 mt-4 text-center mx-auto">
-                            <a href="#" className="text-center m-2 btn btn-sec">
+                            <a href="https://www.youtube.com/channel/UCkVuysdR_4AZmtouLHr6z5w" className="text-center m-2 btn btn-sec">
                                 Youtube
                             </a>
                         </div>
