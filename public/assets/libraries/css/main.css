@@ -253,6 +253,10 @@ section#main-achievements .card .card-body p .text-muted {
   margin-top: 8rem;
 }
 
+.anchor-adjust:target {
+  scroll-margin-top: 7.5rem;
+}
+
 @media (max-width: 992px) {
   main.main-skills p, main.main-skills h1, main.main-skills h3 {
     color: #BBE1FA !important;
