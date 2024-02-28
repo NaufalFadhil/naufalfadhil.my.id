@@ -8,12 +8,13 @@ import Link from 'next/link';
 
 export default function WorkExperienceTimeline() {
   const [showData, setShowData]= useState(false);
-  const [experienceList, setExperienceList] = useState(experienceData.slice(0, 3));
+  const [experienceList, setExperienceList] = useState(experienceData.filter(item => !item.softdelete).slice(0, 3));
   const experienceLeft = experienceData.length - 3;
 
   const showClickHandler = () => {
     setShowData(true);
-    setExperienceList(experienceData);
+    const filterActiveExperience = experienceData.filter(item => !item.softdelete)
+    setExperienceList(filterActiveExperience);
   }
 
   return (

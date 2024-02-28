@@ -5,10 +5,10 @@ import Style from "../../styles/Home.module.css";
 export default function Navigation() {
   return (
     <nav className="navbar bg-darkest border-5 fixed-top container">
-        <div id={Style.navbarBrand} className="mt-4">
+        <div id={Style.navbarBrand} className="mt-4" style={{ zIndex: '99', position: 'absolute' }} >
             <a className="navbar-brand" href="/">Naufal Fadhil</a>
         </div>
-        <div id={Style.longNavigation} className="me-5 text-center">
+        <div id={Style.longNavigation} className="text-center" style={{ marginLeft: 'auto', marginRight: 'auto' }}>
             <ul className="nav mt-3" >
                 <li className="nav-item px-3">
                   <Link href="/articles">
@@ -47,7 +47,7 @@ export default function Navigation() {
                 </li>
             </ul>
         </div>
-        <div id={Style.navbarLogo}>
+        <div id={Style.navbarLogo} style={{ zIndex: '99', position: 'absolute', right: '0' }}>
             <Image src="assets/images/logo/N22-Logo-Primary.svg" width={30} height={30} alt="N Logo" className="mt-3 me-4" />
         </div>
     </nav>

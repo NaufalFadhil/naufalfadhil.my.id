@@ -135,14 +135,14 @@ main.main-skills .card-group .card.top-skill-card:hover .text-muted, main.main-s
   color: #BBE1FA !important;
 }
 
-/* main#main-link a, main#main-link button {
+main#main-link a, main#main-link button {
   text-decoration: none !important;
   color: #BBE1FA !important;
   width: 250px !important;
   height: 50px !important;
   border-radius: 25px !important;
   padding-top: 13px !important;
-} */
+}
 
 main#main-link a:hover, main#main-link button:hover {
   background-color: #BBE1FA !important;
@@ -167,12 +167,12 @@ main#main-link a.btn-danger:hover, main#main-link button.btn-danger:hover {
   font-weight: bold !important;
 }
 
-main#main-achievements .card {
+section#main-achievements .card {
   background-color: #0F4C75 !important;
   color: #BBE1FA !important;
 }
 
-main#main-achievements .card img {
+section#main-achievements .card img {
   display: block !important;
   margin-left: auto !important;
   margin-right: auto !important;
@@ -181,30 +181,30 @@ main#main-achievements .card img {
   padding: 10% !important;
 }
 
-main#main-achievements .card .card-body {
+section#main-achievements .card .card-body {
   max-height: 180px !important;
 }
 
-main#main-achievements .card .card-body h5 {
+section#main-achievements .card .card-body h5 {
   -webkit-box-pack: center !important;
       -ms-flex-pack: center !important;
           justify-content: center !important;
 }
 
-main#main-achievements .card .card-body h5 span {
+section#main-achievements .card .card-body h5 span {
   -webkit-box-pack: center !important;
       -ms-flex-pack: center !important;
           justify-content: center !important;
   font-weight: bold !important;
 }
 
-main#main-achievements .card .card-body p {
+section#main-achievements .card .card-body p {
   -webkit-box-pack: center !important;
       -ms-flex-pack: center !important;
           justify-content: center !important;
 }
 
-main#main-achievements .card .card-body p .text-muted {
+section#main-achievements .card .card-body p .text-muted {
   color: #3282B8 !important;
   font-weight: bold !important;
 }
@@ -247,6 +247,14 @@ main#main-achievements .card .card-body p .text-muted {
 
 .clickable2x:hover {
   transform: scale(1.2) !important;
+}
+
+.main-section {
+  margin-top: 8rem;
+}
+
+.anchor-adjust:target {
+  scroll-margin-top: 7.5rem;
 }
 
 @media (max-width: 992px) {
