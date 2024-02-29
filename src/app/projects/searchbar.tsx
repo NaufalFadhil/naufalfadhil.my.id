@@ -63,6 +63,8 @@ export default function Searchbar(props: SearchbarProps) {
           <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Laravel')}>Laravel</button>
           <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Codeigniter')}>Codeigniter</button>
           <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('Flask')}>Flask</button>
+          <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('MySQL')}>MySQL</button>
+          <button className="btn btn-primary me-3 my-2 p-3 clickable2x" onClickCapture={() => onClickStackFilterHandler('PostgreSQL')}>PostgreSQL</button>
       </div>
     </>
   )

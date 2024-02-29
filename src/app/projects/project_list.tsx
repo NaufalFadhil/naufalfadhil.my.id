@@ -19,7 +19,7 @@ export default function ProjectList(props: ProjectListProps) {
         // console.log('stack', project.stack.includes(searchInput ? searchInput : ''));
 
         if (searchInput === 'Backend') {
-            return project.withBackend;
+            return project.withBackend || project.type.includes('Backend');
         }
 
         return searchInput ? project.title.toLowerCase().includes(searchInput.toLowerCase()) || project.stack.includes(searchInput) || project.type.includes(searchInput)

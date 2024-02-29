@@ -34,10 +34,12 @@ function BadgeItems(logo: string) {
       {logo === 'Codeigniter' && (<img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" />)}
       {logo === 'Springboot' && (<img alt="Springboot" src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />)}
       {logo === 'Golang' && (<img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />)}
+      {logo === 'Ruby' && (<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />)}
 
       {logo === 'Github Repository' && (<img alt="GitHub" src="https://img.shields.io/badge/REPOSITORY-%23323330.svg?style=for-the-badge&logo=GITHUB&logoColor=white" />)}
       {logo === 'Github Hosted' && (<img alt="Github Hosted" src="https://img.shields.io/badge/HOSTED-%23323330.svg?style=for-the-badge&logo=GITHUB&logoColor=white" />)}
       {logo === 'Github Private' && (<img alt="Github Private" src="https://img.shields.io/badge/PRIVATE-%23323330.svg?style=for-the-badge&logo=GITHUB&logoColor=white" />)}
+      {logo === 'Github Actions' && (<img alt="Github Actions" src="https://img.shields.io/badge/ACTIONS-%23323330.svg?style=for-the-badge&logo=GITHUB&logoColor=white" />)}
 
       {logo === 'Netlify' && (<img alt="Netlify" src="https://img.shields.io/badge/NETLIFY-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" />)}
       {logo === 'Netlify Hosted' && (<img alt="Netlify Hosted" src="https://img.shields.io/badge/HOSTED-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />)}
@@ -56,6 +58,15 @@ function BadgeItems(logo: string) {
       {logo === 'PostgreSQL' && (<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />)}
       {logo === 'MongoDB' && (<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />)}
 
+      {logo === 'OpenCV' && (<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" />)}
+      {logo === 'Tensorflow' && (<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />)}
+      {logo === 'Keras' && (<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />)}
+      {logo === 'Scikit Learn' && (<img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />)}
+      {logo === 'Pandas' && (<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />)}
+      {logo === 'Numpy' && (<img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />)}
+      {logo === 'Matplotlib' && (<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />)}
+
+      {/* {logo === 'Machine Learning' && (<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=machine-learning&logoColor=white" />)} */}
       {logo === 'API' && (<img alt="API" src="https://img.shields.io/badge/API-005571?style=for-the-badge" />)}
     </div>
   )

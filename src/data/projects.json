@@ -213,5 +213,159 @@
     "type": "Website",
     "withBackend": false,
     "softdelete": false
+  },
+  {
+    "id": "hivote",
+    "title": "HiVote",
+    "description": "HiVote is a project to help people vote in the election with modern user validation.",
+    "url": null,
+    "thumbnail": "/assets/images/projects/no_image_flutter_api.svg",
+    "provider": [
+      {
+        "id": "hivote-github-private",
+        "logo": "Github Private",
+        "url": null
+      }
+    ],
+    "stack": [
+      "Dart",
+      "Flutter",
+      "Python",
+      "Flask",
+      "MySQL",
+      "OpenCV",
+      "Machine Learning"
+    ],
+    "type": "Mobile",
+    "withBackend": true,
+    "softdelete": false
+  },
+  {
+    "id": "gigih-nomobb",
+    "title": "Nomobb",
+    "description": "Capstone Project at Generasi GIGIH by Gojek Tokopedia and Yayasan Anak Bangsa Bisa.",
+    "url": null,
+    "thumbnail": "/assets/images/projects/no_image_api.svg",
+    "provider": [
+      {
+        "id": "gigih-nomobb-github-repository",
+        "logo": "Github Repository",
+        "url": "https://github.com/NaufalFadhil/NoMobb"
+      }
+    ],
+    "stack": [
+      "Ruby",
+      "Rails",
+      "SQLite"
+    ],
+    "type": "Backend",
+    "withBackend": true,
+    "softdelete": false
+  },
+  {
+    "id": "foodata",
+    "title": "Foodata",
+    "description": "Foodata is a project to help people to find restaurant and food information.",
+    "url": null,
+    "thumbnail": "/assets/images/projects/no_image_flutter_api.svg",
+    "provider": [
+      {
+        "id": "foodata-github-private",
+        "logo": "Github Private",
+        "url": null
+      }
+    ],
+    "stack": [
+      "Flutter",
+      "Laravel",
+      "MySQL"
+    ],
+    "type": "Mobile",
+    "withBackend": true,
+    "softdelete": false
+  },
+  {
+    "id": "gucc-absence",
+    "title": "Assistant Absence System",
+    "description": "GUCC Absence is a project to help people to record their absence and payroll.",
+    "url": null,
+    "thumbnail": "/assets/images/projects/no_image_web.svg",
+    "provider": [
+      {
+        "id": "gucc-absence-github-private",
+        "logo": "Github Private",
+        "url": null
+      }
+    ],
+    "stack": [
+      "Laravel",
+      "PostgreSQL"
+    ],
+    "type": "Website",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "konasara-smart",
+    "title": "Konasara Smart A",
+    "description": "Konasara Smart is a project to record scholarship and student data at Konawe Utara Regency.",
+    "url": null,
+    "thumbnail": "/assets/images/projects/no_image_web.svg",
+    "provider": [
+      {
+        "id": "konasara-smart-github-private",
+        "logo": "Github Private",
+        "url": null
+      }
+    ],
+    "stack": [
+      "Laravel",
+      "PostgreSQL"
+    ],
+    "type": "Website",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "pzn-category-api",
+    "title": "Category API",
+    "description": "Category API is a project for learning at Programmer Zaman Now.",
+    "url": null,
+    "thumbnail": "/assets/images/projects/no_image_api.svg",
+    "provider": [
+      {
+        "id": "pzn-category-api-github-private",
+        "logo": "Github Private",
+        "url": null
+      }
+    ],
+    "stack": [
+      "Golang",
+      "MySQL"
+    ],
+    "type": "Backend",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
+    "id": "pzn-contact-api",
+    "title": "Contact API",
+    "description": "Contact API is a project for learning at Programmer Zaman Now.",
+    "url": null,
+    "thumbnail": "/assets/images/projects/no_image_api.svg",
+    "provider": [
+      {
+        "id": "pzn-contact-api-github-private",
+        "logo": "Github Private",
+        "url": null
+      }
+    ],
+    "stack": [
+      "Java",
+      "Springboot"
+    ],
+    "type": "Backend",
+    "withBackend": false,
+    "softdelete": false
   }
 ]
