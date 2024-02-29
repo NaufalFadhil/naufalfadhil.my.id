@@ -7,14 +7,17 @@ interface SearchbarProps {
 
 export default function Searchbar(props: SearchbarProps) {
     const { onSearchChangeHandler } = props;
-    const [searchInput , setSearchInput] = useState('');
-    // const router = useRouter();
-    // const pathName = usePathname();
-    // const searchParams = useSearchParams();
+    const router = useRouter();
+    const pathName = usePathname();
+    const searchParams = useSearchParams();
 
-    // const [searchInput, setSearchInput] = useState(() => {
-    //     return searchParams.get('search') || '';
-    // });
+    const [searchInput, setSearchInput] = useState(() => {
+        let params = searchParams.get('stack') || '';
+        params =  params.charAt(0).toUpperCase() + params.slice(1);
+
+        onSearchChangeHandler(params);
+        return params;
+    });
 
     // const createQueryString = useCallback(
     //     (name: string, value: string) => {
@@ -30,12 +33,14 @@ export default function Searchbar(props: SearchbarProps) {
         setSearchInput(searchInput);
         onSearchChangeHandler(searchInput);
         // router.push(pathName + '?' + createQueryString('search', searchInput));
+        router.push(pathName);
     }
 
     function onClickStackFilterHandler(stack: string) {
         setSearchInput(stack);
         onSearchChangeHandler(stack);
         // router.push(pathName + '?' + createQueryString('search', stack));
+        router.push(pathName);
     }
 
   return (

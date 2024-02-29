@@ -15,7 +15,6 @@ export default function Project() {
 
     function onSearchChangeHandler(searchInput: string) {
         setSearchInput(searchInput);
-        console.log(searchInput);
     }
 
     return (
