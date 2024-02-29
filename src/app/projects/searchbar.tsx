@@ -33,14 +33,12 @@ export default function Searchbar(props: SearchbarProps) {
         setSearchInput(searchInput);
         onSearchChangeHandler(searchInput);
         // router.push(pathName + '?' + createQueryString('search', searchInput));
-        router.push(pathName);
     }
 
     function onClickStackFilterHandler(stack: string) {
         setSearchInput(stack);
         onSearchChangeHandler(stack);
         // router.push(pathName + '?' + createQueryString('search', stack));
-        router.push(pathName);
     }
 
   return (
