@@ -30,6 +30,18 @@ export default function Carousel() {
 		<div className="slide dark-card">
 			<Image src="/assets/images/slider/slider_kelasterbuka.png" height={100} width={250} alt="Logo Non Formal Education" />
 		</div>
+		<div className="slide">
+			<Image src="/assets/images/slider/slider_generasigigih.png" height={100} width={250} alt="Logo Non Formal Education" />
+		</div>
+		<div className="slide dark-card">
+			<Image src="/assets/images/slider/slider_cakap.png" height={100} width={250} alt="Logo Non Formal Education" />
+		</div>
+		<div className="slide">
+			<Image src="/assets/images/slider/slider_progate.png" height={100} width={250} alt="Logo Non Formal Education" />
+		</div>
+		<div className="slide dark-card">
+			<Image src="/assets/images/slider/slider_aws.png" height={100} width={250} alt="Logo Non Formal Education" />
+		</div>
 		
 		<div className="slide">
 			<Image src="/assets/images/slider/slider_udemy.png" height={100} width={250} alt="Logo Non Formal Education" />
@@ -54,6 +66,18 @@ export default function Carousel() {
 		</div>
 		<div className="slide dark-card">
 			<Image src="/assets/images/slider/slider_kelasterbuka.png" height={100} width={250} alt="Logo Non Formal Education" />
+		</div>
+		<div className="slide">
+			<Image src="/assets/images/slider/slider_generasigigih.png" height={100} width={250} alt="Logo Non Formal Education" />
+		</div>
+		<div className="slide dark-card">
+			<Image src="/assets/images/slider/slider_cakap.png" height={100} width={250} alt="Logo Non Formal Education" />
+		</div>
+		<div className="slide">
+			<Image src="/assets/images/slider/slider_progate.png" height={100} width={250} alt="Logo Non Formal Education" />
+		</div>
+		<div className="slide dark-card">
+			<Image src="/assets/images/slider/slider_aws.png" height={100} width={250} alt="Logo Non Formal Education" />
 		</div>
 	</div>
 </div>
