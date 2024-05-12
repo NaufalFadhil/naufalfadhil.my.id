@@ -932,7 +932,7 @@
     "softdelete": false
   },
   {
-    "id": "belajar-dasar=git-github",
+    "id": "memulai-pemrograman-dengan-java",
     "title": "Memulai Pemrograman Dengan Java",
     "issuer": "Dicoding Indonesia",
     "issuesDate": "2021-06-28",
@@ -940,7 +940,7 @@
     "issuesURL": "https://naufalfadhil.my.id",
     "provider": [
       {
-        "id": "belajar-dasar=git-github-issuer",
+        "id": "memulai-pemrograman-dengan-java-issuer",
         "logo": "ISSUER",
         "url": "https://www.dicoding.com/certificates/RVZK4DWOEPD5"
       }
