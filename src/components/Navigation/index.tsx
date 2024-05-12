@@ -11,19 +11,19 @@ export default function Navigation() {
         <div id={Style.longNavigation} className="text-center" style={{ marginLeft: 'auto', marginRight: 'auto' }}>
             <ul className="nav mt-3" >
                 <li className="nav-item px-3">
-                  <Link href="/articles">
-                      <div className="nav-link">ARTICLE</div>
-                  </Link>
+                    <Link href="https://blog.naufalfadhil.my.id/">
+                        <div className="nav-link">ARTICLE</div>
+                    </Link>
                 </li>
                 <li className="nav-item px-3">
-                  <Link href="/certificates">
-                      <div className="nav-link">CERTIFICATE</div>
-                  </Link>
+                    <Link href="/certificates">
+                        <div className="nav-link">CERTIFICATE</div>
+                    </Link>
                 </li>
                 <li className="nav-item px-3">
-                  <Link href="/projects">
-                      <div className="nav-link">PROJECT</div>
-                  </Link>
+                    <Link href="/projects">
+                            <div className="nav-link">PROJECT</div>
+                    </Link>
                 </li>
             </ul>
         </div>

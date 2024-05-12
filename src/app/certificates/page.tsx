@@ -3,9 +3,11 @@
 import { useCallback, useState, Suspense } from "react";
 import Footer from "@/components/Footer";
 import Navigation from "@/components/Navigation";
-import ProjectList from "./project_list";
+import ProjectList from "./certificate_list";
 import './searchbar.css';
 import './local.css';
+import { usePathname, useSearchParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import Searchbar from "./searchbar";
 
 export default function Project() {

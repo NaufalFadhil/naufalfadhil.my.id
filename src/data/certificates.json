@@ -1,0 +1,1335 @@
+[
+  {
+    "id": "belajar-membuat-aplikasi-back-end-untuk-pemula",
+    "title": "Belajar Membuat Aplikasi Back-end untuk Pemula",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2022-12-02",
+    "expiredDate": "2025-12-02",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-membuat-aplikasi-back-end-untuk-pemula-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/81P28V60QPOY"
+      }
+    ],
+    "stack": [
+      "Backend",
+      "Javascript",
+      "Hapi",
+      "Hapi.js"
+    ],
+    "type": "Backend",
+    "softdelete": false
+  },
+  {
+    "id": "memulai-pemrograman-dengan-dart",
+    "title": "Memulai Pemrograman Dengan Dart",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2022-12-02",
+    "expiredDate": "2022-12-02",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "memulai-pemrograman-dengan-dart-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/0LZ03WG10Z65"
+      }
+    ],
+    "stack": [
+      "Backend",
+      "Dart"
+    ],
+    "type": "Backend",
+    "softdelete": false
+  },
+  {
+    "id": "build-apps-website-with-firebase",
+    "title": "Build Apps & Website with Firebase",
+    "issuer": "Google Cloud Skillboost",
+    "issuesDate": "2022-01-30",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "build-apps-website-with-firebase-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.cloudskillsboost.google/public_profiles/f7afd19a-072e-4424-815a-ab73821d0e32/badges/1696966"
+      }
+    ],
+    "stack": [
+      "Firebase",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Cloud",
+      "Cloud Computing"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "cloud-logging",
+    "title": "Cloud Logging",
+    "issuer": "Google Cloud Skillboost",
+    "issuesDate": "2022-01-30",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "cloud-logging-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.cloudskillsboost.google/public_profiles/f7afd19a-072e-4424-815a-ab73821d0e32/badges/1696966"
+      }
+    ],
+    "stack": [
+      "Firebase",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Cloud",
+      "Cloud Computing"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "create-and-manage-cloud-resources",
+    "title": "Create and Manage Cloud Resources",
+    "issuer": "Google Cloud Skillboost",
+    "issuesDate": "2022-01-28",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "cloud-logging-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.cloudskillsboost.google/public_profiles/f7afd19a-072e-4424-815a-ab73821d0e32/badges/1694230"
+      }
+    ],
+    "stack": [
+      "Firebase",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Cloud",
+      "Cloud Computing"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "google-cloud-essentials",
+    "title": "Google Cloud Essentials",
+    "issuer": "Google Cloud Skillboost",
+    "issuesDate": "2022-01-28",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "google-cloud-essentials-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.cloudskillsboost.google/public_profiles/f7afd19a-072e-4424-815a-ab73821d0e32/badges/1658449"
+      }
+    ],
+    "stack": [
+      "Firebase",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Cloud",
+      "Cloud Computing"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "ensure-access-identity-in-google-cloud",
+    "title": "Ensure Access & Identity in Google Cloud",
+    "issuer": "Google Cloud Skillboost",
+    "issuesDate": "2022-01-18",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "ensure-access-identity-in-google-cloud-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.cloudskillsboost.google/public_profiles/f7afd19a-072e-4424-815a-ab73821d0e32/badges/1658449"
+      }
+    ],
+    "stack": [
+      "Firebase",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Cloud",
+      "Cloud Computing"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "perform-foundational-infrastructure-tasks-in-google-cloud",
+    "title": "Perform Foundational Infrastructure Tasks in Google Cloud",
+    "issuer": "Google Cloud Skillboost",
+    "issuesDate": "2022-01-28",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "perform-foundational-infrastructure-tasks-in-google-cloud-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.cloudskillsboost.google/public_profiles/f7afd19a-072e-4424-815a-ab73821d0e32/badges/1694176"
+      }
+    ],
+    "stack": [
+      "Firebase",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Cloud",
+      "Cloud Computing"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "serverless-firebase-development",
+    "title": "Serverless Firebase Development",
+    "issuer": "Google Cloud Skillboost",
+    "issuesDate": "2022-01-30",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "serverless-firebase-development-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.cloudskillsboost.google/public_profiles/f7afd19a-072e-4424-815a-ab73821d0e32/badges/1697413"
+      }
+    ],
+    "stack": [
+      "Firebase",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Cloud",
+      "Cloud Computing"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "cloud-sdk-command-line",
+    "title": "Using the Cloud SDK Command Line",
+    "issuer": "Google Cloud Skillboost",
+    "issuesDate": "2022-01-29",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "cloud-sdk-command-line-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.cloudskillsboost.google/public_profiles/f7afd19a-072e-4424-815a-ab73821d0e32/badges/1696633"
+      }
+    ],
+    "stack": [
+      "Firebase",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Cloud",
+      "Cloud Computing"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "data-science-on-google-cloud",
+    "title": "Data Science on Google Cloud", 
+    "issuer": "Google Cloud Skillboost",
+    "issuesDate": "2021-09-26",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "data-science-on-google-cloud-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.cloudskillsboost.google/public_profiles/f7afd19a-072e-4424-815a-ab73821d0e32/badges/1696633"
+      }
+    ],
+    "stack": [
+      "Firebase",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "Cloud",
+      "Cloud Computing"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "introduction-to-data-science-with-r",
+    "title": "Introduction to Data Science with R",
+    "issuer": "DQLab",
+    "issuesDate": "2021-09-26",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "introduction-to-data-science-with-r-issuer",
+        "logo": "ISSUER",
+        "url": "https://academy.dqlab.id/certificate/pdf/DQLABBGINRSNCPSK/NONTRACK"
+      }
+    ],
+    "stack": [
+      "Data Science",
+      "R",
+      "Data",
+      "Data Analysis"
+    ],
+    "type": "Data Science",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-fundamental-aplikasi-android",
+    "title": "Belajar Fundamental Aplikasi Android",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2021-08-23",
+    "expiredDate": "2024-08-23",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-fundamental-aplikasi-android-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/53XEWY1MVXRN"
+      }
+    ],
+    "stack": [
+      "Android",
+      "Mobile",
+      "Mobile Development",
+      "Java",
+      "Kotlin"
+    ],
+    "type": "Mobile",
+    "softdelete": false
+  },
+  {
+    "id": "web-penetration-testing-bug-bounty-hunting",
+    "title": "Web Penetration Testing & Bug Bounty Hunting",
+    "issuer": "Jadi Hacker",
+    "issuesDate": "2022-10-05",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "web-penetration-testing-bug-bounty-hunting-issuer",
+        "logo": "ISSUER",
+        "url": "https://jadihacker.id/tutor-certificate-4/?cert_hash=86461267f3afb16a "
+      }
+    ],
+    "stack": [
+      "Security",
+      "Hacking",
+      "Penetration Testing",
+      "Bug Bounty"
+    ],
+    "type": "Cyber Security",
+    "softdelete": false
+  },
+  {
+    "id": "full-stack-web-developer-bwa",
+    "title": "Full-stack Web Developer",
+    "issuer": "Build With Angga",
+    "issuesDate": "2022-05-29",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "full-stack-web-developer-bwa-issuer",
+        "logo": "ISSUER",
+        "url": "https://buildwithangga.com/"
+      }
+    ],
+    "stack": [
+      "Web Development",
+      "Frontend",
+      "Backend",
+      "PHP",
+      "Laravel"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "robotic-developments-in-two-level-basic-and-intermediate",
+    "title": "Robotic Developments in Two Level: Basic and Intermediate",
+    "issuer": "Interactive Robotics",
+    "issuesDate": "2018-06-20",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "robotic-developments-in-two-level-basic-and-intermediate-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.credential.net/fbd2d164-7d46-4d2c-9c1e-965e5e1522bf?username=naufalfadhilathallah"
+      }
+    ],
+    "stack": [
+      "Robotics",
+      "Arduino",
+      "Electronics",
+      "IoT",
+      "Internet of Things"
+    ],
+    "type": "Robotics",
+    "softdelete": false
+  },
+  {
+    "id": "programmer-gunadarma-university",
+    "title": "Professional Certification for Programmer",
+    "issuer": "LSP Univ. Gunadarma",
+    "issuesDate": "2023-08-23",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "programmer-gunadarma-university-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.gunadarma.ac.id/"
+      }
+    ],
+    "stack": [
+      "Programming",
+      "Software Development",
+      "Software Engineering",
+      "Software",
+      "Backend",
+      "Mobile",
+      "Website",
+      "Cloud"
+    ],
+    "type": "Backend",
+    "softdelete": false
+  },
+  {
+    "id": "pelatihan-pengelolaan-konten-website-program-studi-universitas-gunadarma",
+    "title": "Pelatihan Pengelolaan Konten Website Universitas Gunadarma",
+    "issuer": "BAPSI Univ. Gunadarma",
+    "issuesDate": "2024-03-08",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "pelatihan-pengelolaan-konten-website-program-studi-universitas-gunadarma-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.gunadarma.ac.id/"
+      }
+    ],
+    "stack": [
+      "Backend",
+      "Website",
+      "Wordpress"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "html-css-course-progate",
+    "title": "HTML & CSS Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-03-12",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "html-css-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/87cc8fd6r8n12q"
+      }
+    ],
+    "stack": [
+      "Website"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "ruby-course-progate",
+    "title": "Ruby Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-03-05",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "ruby-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/8954289ar8a0qu"
+      }
+    ],
+    "stack": [
+      "Website",
+      "Ruby",
+      "Backend"
+    ],
+    "type": "Backend",
+    "softdelete": false
+  },
+  {
+    "id": "ruby-on-rails-course-progate",
+    "title": "Ruby on Rails 5 Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-04-25",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "ruby-on-rails-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/25c57f09raw9wj"
+      }
+    ],
+    "stack": [
+      "Website",
+      "Ruby",
+      "Backend",
+      "Ruby on Rails",
+      "Framework"
+    ],
+    "type": "Backend",
+    "softdelete": false
+  },
+  {
+    "id": "git-course-progate",
+    "title": "Git Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-03-05",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "git-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/6c6dabc7r80bnz"
+      }
+    ],
+    "stack": [
+      "Tools",
+      "Git",
+      "Version Control"
+    ],
+    "type": "Tools",
+    "softdelete": false
+  },
+  {
+    "id": "command-line-course-progate",
+    "title": "Command Line Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-03-05",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "command-line-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/36e5a7e1r8a5s7"
+      }
+    ],
+    "stack": [
+      "Tools",
+      "Command Line",
+      "CLI"
+    ],
+    "type": "Tools",
+    "softdelete": false
+  },
+  {
+    "id": "sql-course-progate",
+    "title": "SQL Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-03-06",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "sql-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/1cc602c0r8buwz"
+      }
+    ],
+    "stack": [
+      "Database",
+      "SQL",
+      "Database Management",
+      "Database Query"
+    ],
+    "type": "Database",
+    "softdelete": false
+  },
+  {
+    "id": "sass-course-progate",
+    "title": "SASS Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-04-17",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "sass-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/44f25101ragsq1"
+      }
+    ],
+    "stack": [
+      "Website",
+      "CSS",
+      "SASS",
+      "Frontend"
+    ],
+    "type": "Tools",
+    "softdelete": false
+  },
+  {
+    "id": "javascript-course-progate",
+    "title": "Javascript Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-04-28",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "javascript-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/86f2aea9rb26y3"
+      }
+    ],
+    "stack": [
+      "Website",
+      "Javascript",
+      "Frontend",
+      "Backend"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "go-course-progate",
+    "title": "Go Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-04-26",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "go-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/52553a12raxon6"
+      }
+    ],
+    "stack": [
+      "Website",
+      "Go",
+      "Backend"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "react-course-progate",
+    "title": "React Course",
+    "issuer": "Progate",
+    "issuesDate": "2022-04-29",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "react-course-progate-issuer",
+        "logo": "ISSUER",
+        "url": "https://progate.com/course_certificate/10dc2314rb41jh"
+      }
+    ],
+    "stack": [
+      "Website",
+      "React",
+      "Frontend"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-fundamental-aplikasi-web-dengan-react",
+    "title": "Belajar Fundamental Aplikasi Web dengan React",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2024-01-29",
+    "expiredDate": "2027-01-29",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-fundamental-aplikasi-web-dengan-react-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/NVP775N7GPR0"
+      }
+    ],
+    "stack": [
+      "Website",
+      "React",
+      "Frontend"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-membuat-aplikasi-web-dengan-react",
+    "title": "Belajar Membuat Aplikasi Web dengan React",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2024-01-24",
+    "expiredDate": "2027-01-24",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-membuat-aplikasi-web-dengan-react-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/QLZ94VMQMP5D"
+      }
+    ],
+    "stack": [
+      "Website",
+      "React",
+      "Frontend"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-prinsip-pemrograman-solid",
+    "title": "Belajar Prinsip Pemrograman SOLID",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2024-01-20",
+    "expiredDate": "2027-01-20",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-prinsip-pemrograman-solid-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/NVP774JDWPR0"
+      }
+    ],
+    "stack": [
+      "Programming",
+      "Software Development",
+      "Software Engineering",
+      "Software"
+    ],
+    "type": "Soft Skill",
+    "softdelete": false
+  },
+  {
+    "id": "memulai-pemrograman-dengan-python",
+    "title": "Memulai Pemrograman dengan Python",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2023-11-29",
+    "expiredDate": "2026-11-29",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "memulai-pemrograman-dengan-python-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/1OP8NYEOLXQK"
+      }
+    ],
+    "stack": [
+      "Programming",
+      "Python",
+      "Backend",
+      "Data Science",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "type": "Backend",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-dasar-visualisasi-data",
+    "title": "Belajar Dasar Visualisasi Data",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2023-11-17",
+    "expiredDate": "2026-11-17",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar-visualisasi-data-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/NVP78R84RXR0"
+      }
+    ],
+    "stack": [
+      "Data Science",
+      "Data",
+      "Data Analysis",
+      "Data Visualization"
+    ],
+    "type": "Data Science",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-dasar-manajemen-proyek",
+    "title": "Belajar Dasar Manajemen Proyek",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2023-03-13",
+    "expiredDate": "2026-03-13",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar-manajemen-proyek-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/EYX4075W5PDL"
+      }
+    ],
+    "stack": [
+      "Project Management",
+      "Management",
+      "Soft Skill"
+    ],
+    "type": "Soft Skill",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-dasar-dasar-devops",
+    "title": "Belajar Dasar-Dasar DevOps",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2023-11-29",
+    "expiredDate": "2026-11-29",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar-dasar-devops-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/L4PQQ3LN4PO1"
+      }
+    ],
+    "stack": [
+      "DevOps",
+      "Development",
+      "Operation",
+      "Cloud Computing",
+      "Cloud"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-membuat-aplikasi-flutter-untuk-pemula",
+    "title": "Belajar Membuat Aplikasi Flutter untuk Pemula",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2022-07-18",
+    "expiredDate": "2025-07-18",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-membuat-aplikasi-flutter-untuk-pemula-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/EYX46K2MOPDL"
+      }
+    ],
+    "stack": [
+      "Mobile",
+      "Mobile Development",
+      "Flutter",
+      "Dart",
+      "Frontend",
+      "Multiplatform",
+      "Multi-platform",
+      "Multi Platform",
+      "Cross Platform"
+    ],
+    "type": "Mobile",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-dasar-google-cloud",
+    "title": "Belajar Dasar Google Cloud",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2022-06-01",
+    "expiredDate": "2025-06-01",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar-google-cloud-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/NVP7KKRDGZR0"
+      }
+    ],
+    "stack": [
+      "Cloud Computing",
+      "Cloud",
+      "Google Cloud",
+      "Google Cloud Platform"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-membuat-front-end-web-untuk-pemula",
+    "title": "Belajar Membuat Front-End Web untuk Pemula",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2022-02-27",
+    "expiredDate": "2025-02-27",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-membuat-front-end-web-untuk-pemula-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/53XEW6EJ9XRN"
+      }
+    ],
+    "stack": [
+      "Website",
+      "Frontend",
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-dasar-pemrograman-javascript",
+    "title": "Belajar Dasar Pemrograman JavaScript",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2022-02-06",
+    "expiredDate": "2025-02-06",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar-pemrograman-javascript-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/JMZV2527NZN9"
+      }
+    ],
+    "stack": [
+      "Website",
+      "Javascript",
+      "Frontend",
+      "Backend"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-dasar=git-github",
+    "title": "Belajar Dasar Git dengan GitHub",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2021-10-20",
+    "expiredDate": "2024-10-20",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar=git-github-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/07Z65J172XQR"
+      }
+    ],
+    "stack": [
+      "Tools",
+      "Git",
+      "Version Control",
+      "Github"
+    ],
+    "type": "Tools",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-dasar=git-github",
+    "title": "Memulai Pemrograman Dengan Java",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2021-06-28",
+    "expiredDate": "2024-06-28",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar=git-github-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/RVZK4DWOEPD5"
+      }
+    ],
+    "stack": [
+      "Tools",
+      "Git",
+      "Version Control",
+      "Github"
+    ],
+    "type": "Tools",
+    "softdelete": false
+  },
+  {
+    "id": "aws-cloud-practitioner-essentials",
+    "title": "AWS Cloud Practitioner Essentials",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2021-05-05",
+    "expiredDate": "2024-05-05",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "aws-cloud-practitioner-essentials-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/QLZ98EEVEX5D"
+      }
+    ],
+    "stack": [
+      "Cloud Computing",
+      "Cloud",
+      "AWS",
+      "Amazon Web Services"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "architecting-on-aws",
+    "title": "Architecting on AWS",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2021-07-18",
+    "expiredDate": "2024-07-18",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "architecting-on-aws-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/N9ZOEONQ6XG5"
+      }
+    ],
+    "stack": [
+      "Cloud Computing",
+      "Cloud",
+      "AWS",
+      "Amazon Web Services"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "meniti-karier-sebagai-software-developer",
+    "title": "Meniti Karier sebagai Software Developer",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2021-03-14",
+    "expiredDate": "2024-03-14",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "meniti-karier-sebagai-software-developer-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/ERZR52LQMPYV"
+      }
+    ],
+    "stack": [
+      "Programming",
+      "Software Development",
+      "Software Engineering",
+      "Software"
+    ],
+    "type": "Soft Skill",
+    "softdelete": false
+  },
+  {
+    "id": "memulai-dasar-pemrograman-untuk-menjadi-pengembang-software",
+    "title": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2021-02-27",
+    "expiredDate": "2024-02-27",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "memulai-dasar-pemrograman-untuk-menjadi-pengembang-software-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/MEPJ5QKOWP3V"
+      }
+    ],
+    "stack": [
+      "Programming",
+      "Software Development",
+      "Software Engineering",
+      "Software"
+    ],
+    "type": "Soft Skill",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-machine-learning-untuk-pemula",
+    "title": "Belajar Machine Learning untuk Pemula",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2020-07-31",
+    "expiredDate": "2023-07-31",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-machine-learning-untuk-pemula-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/EYX4RY65OXDL"
+      }
+    ],
+    "stack": [
+      "Data Science",
+      "Data",
+      "Data Analysis",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "type": "Machine Learning",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-dasar-dasar-azure-cloud",
+    "title": "Belajar Dasar-Dasar Azure Cloud",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2019-12-27",
+    "expiredDate": "2022-12-27",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar-dasar-azure-cloud-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/L4PQM8J6VZO1"
+      }
+    ],
+    "stack": [
+      "Cloud Computing",
+      "Cloud",
+      "Azure",
+      "Microsoft Azure"
+    ],
+    "type": "Cloud Computing",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-membuat-aplikasi-android-untuk-pemula",
+    "title": "Belajar Membuat Aplikasi Android untuk Pemula",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2019-12-14",
+    "expiredDate": "2022-12-14",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar-dasar-azure-cloud-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/2VX3N6EJJXYQ"
+      }
+    ],
+    "stack": [
+      "Android",
+      "Mobile",
+      "Mobile Development",
+      "Java",
+      "Kotlin"
+    ],
+    "type": "Mobile",
+    "softdelete": false
+  },
+  {
+    "id": "memulai-pemrograman-dengan-kotlin",
+    "title": "Memulai Pemrograman dengan Kotlin",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2020-04-02",
+    "expiredDate": "2023-04-02",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "memulai-pemrograman-dengan-kotlin-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/MRZMGL65NZYQ"
+      }
+    ],
+    "stack": [
+      "Android",
+      "Mobile",
+      "Mobile Development",
+      "Kotlin",
+      "Backend"
+    ],
+    "type": "Mobile",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-dasar-pemrograman-web",
+    "title": "Belajar Dasar Pemrograman Web",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2019-08-09",
+    "expiredDate": "2022-08-09",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-dasar-pemrograman-web-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/QGRX5V20RX0M"
+      }
+    ],
+    "stack": [
+      "Website",
+      "Frontend",
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "belajar-membangun-line-front-end-framework-liff",
+    "title": "Belajar Membangun LINE Front-end Framework (LIFF)",
+    "issuer": "Dicoding Indonesia",
+    "issuesDate": "2020-01-16",
+    "expiredDate": "2023-01-16",
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "belajar-membangun-line-front-end-framework-liff-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/QLZ98REQDX5D"
+      }
+    ],
+    "stack": [
+      "Website",
+      "Frontend",
+      "LINE",
+      "LIFF",
+      "Framework"
+    ],
+    "type": "Website",
+    "softdelete": false
+  },
+  {
+    "id": "english-for-business-software-engineering-beginner-level-2",
+    "title": "English for Business & Software Engineering Beginner Level 2",
+    "issuer": "Cakap",
+    "issuesDate": "2022-09-09",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "english-for-business-software-engineering-beginner-level-2-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.dicoding.com/certificates/QLZ98REQDX5D"
+      }
+    ],
+    "stack": [
+      "Soft Skill",
+      "English",
+      "Business",
+      "Software Engineering"
+    ],
+    "type": "Soft Skill",
+    "softdelete": false
+  },
+  {
+    "id": "computer-and-network-engineering-competency-certification",
+    "title": "Computer and Network Engineering Competency Certification",
+    "issuer": "LSP LP3I",
+    "issuesDate": "2019-03-13",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "computer-and-network-engineering-competency-certification-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.credential.net/09375fdf-21bf-43f1-b4a7-61f4bfd1d253?username=naufalfadhilathallah"
+      }
+    ],
+    "stack": [
+      "Computer",
+      "Network",
+      "Engineering",
+      "Hardware",
+      "Software",
+      "Network Engineering"
+    ],
+    "type": "Network",
+    "softdelete": false
+  },
+  {
+    "id": "fundamental-desktop-lepkom-univ-gunadarma",
+    "title": "Fundamental Desktop",
+    "issuer": "LEPKOM Univ. Gunadarma",
+    "issuesDate": "2019-03-13",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "fundamental-desktop-lepkom-univ-gunadarma-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.credential.net/09375fdf-21bf-43f1-b4a7-61f4bfd1d253?username=naufalfadhilathallah"
+      }
+    ],
+    "stack": [
+      "Computer",
+      "Desktop",
+      "Hardware",
+      "Software",
+      "Desktop Engineering"
+    ],
+    "type": "Desktop",
+    "softdelete": false
+  },
+  {
+    "id": "fundamental-dbms-lepkom-univ-gunadarma",
+    "title": "Fundamental DBMS",
+    "issuer": "LEPKOM Univ. Gunadarma",
+    "issuesDate": "2021-05-01",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "fundamental-dbms-lepkom-univ-gunadarma-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.credential.net/eb0477b4-316e-4da7-ad3a-e1a630389784?username=naufalfadhilathallah"
+      }
+    ],
+    "stack": [
+      "Database",
+      "DBMS",
+      "Database Management",
+      "Database Query"
+    ],
+    "type": "Database",
+    "softdelete": false
+  },
+  {
+    "id": "oracle-for-beginner-lepkom-univ-gunadarma",
+    "title": "Oracle for Beginner",
+    "issuer": "LEPKOM Univ. Gunadarma",
+    "issuesDate": "2021-10-27",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "oracle-for-beginner-lepkom-univ-gunadarma-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.credential.net/9e2e437d-90e0-441f-b0ed-51bbc57da29b?username=naufalfadhilathallah"
+      }
+    ],
+    "stack": [
+      "Database",
+      "Oracle",
+      "Database Management",
+      "Database Query"
+    ],
+    "type": "Database",
+    "softdelete": false
+  },
+  {
+    "id": "java-j2se-for-beginner-lepkom-univ-gunadarma",
+    "title": "Java (J2SE) for Beginner",
+    "issuer": "LEPKOM Univ. Gunadarma",
+    "issuesDate": "2021-10-27",
+    "expiredDate": null,
+    "issuesURL": "https://naufalfadhil.my.id",
+    "provider": [
+      {
+        "id": "java-j2se-for-beginner-lepkom-univ-gunadarma-issuer",
+        "logo": "ISSUER",
+        "url": "https://www.credential.net/7d7615fd-5242-4663-8640-1c59ce888201?username=naufalfadhilathallah"
+      }
+    ],
+    "stack": [
+      "Programming",
+      "Java",
+      "Backend",
+      "Software Development",
+      "Software Engineering",
+      "Software"
+    ],
+    "type": "Database",
+    "softdelete": false
+  }
+]

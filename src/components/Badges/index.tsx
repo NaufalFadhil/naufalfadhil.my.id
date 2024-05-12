@@ -68,6 +68,7 @@ function BadgeItems(logo: string) {
 
       {/* {logo === 'Machine Learning' && (<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=machine-learning&logoColor=white" />)} */}
       {logo === 'API' && (<img alt="API" src="https://img.shields.io/badge/API-005571?style=for-the-badge" />)}
+      {logo === 'ISSUER' && (<img alt="VALIDATE CERTIFICATE" src="https://img.shields.io/badge/CHECK%20CERTIFICATE-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />)}
     </div>
   )
 }
