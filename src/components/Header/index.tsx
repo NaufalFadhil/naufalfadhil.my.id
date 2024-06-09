@@ -30,7 +30,7 @@ export default function Header() {
                     </button>
                 </div>
                 <div className="col d-none d-md-block">
-                    <Image src="assets/images/avatar/foto_header_primary.svg" width={400} height={450} alt="Foto Fadhil" className="mt-3" />
+                    <Image src="assets/images/avatar/foto_header_colored.svg" width={400} height={450} alt="Foto Fadhil" className="mt-3" />
                 </div>
             </div>
         </div>
