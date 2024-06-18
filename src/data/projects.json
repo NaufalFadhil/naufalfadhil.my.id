@@ -215,6 +215,27 @@
     "softdelete": false
   },
   {
+    "id": "stashidea-sso-service",
+    "title": "SSO Service API",
+    "description": "SSO Service API is my personal project to create a Single Sign-On Service integrated with all of my projects.",
+    "url": null,
+    "thumbnail": "/assets/images/projects/no_image_api.svg",
+    "provider": [
+      {
+        "id": "stashidea-sso-service-github-private",
+        "logo": "Github Private",
+        "url": null
+      }
+    ],
+    "stack": [
+      "Golang",
+      "PostgreSQL"
+    ],
+    "type": "Backend",
+    "withBackend": false,
+    "softdelete": false
+  },
+  {
     "id": "hivote",
     "title": "HiVote",
     "description": "HiVote is a project to help people vote in the election with modern user validation.",
