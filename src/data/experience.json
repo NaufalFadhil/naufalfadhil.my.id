@@ -1,5 +1,33 @@
 [
   {
+    "key": "SPRINTASIA",
+    "base_color": "#2A5AA0",
+    "text_color": "#FFF",
+    "company": "Sprint Asia Technology",
+    "position": "Full Stack Engineer",
+    "location": "Jakarta, Indonesia",
+    "start_date": "2024-08-05",
+    "end_date": null,
+    "type": "Full-time",
+    "website": "https://sprintasia.co.id/",
+    "description": null,
+    "softdelete": false
+  },
+  {
+    "key": "GGF",
+    "base_color": "#ECAB43",
+    "text_color": "#FFF",
+    "company": "Great Giant Foods",
+    "position": "Game Developer - HRIS Gamification",
+    "location": "Jakarta, Indonesia",
+    "start_date": "2024-06-27",
+    "end_date": "2024-08-04",
+    "type": "Freelance",
+    "website": "https://www.gg-foods.com/",
+    "description": null,
+    "softdelete": false
+  },
+  {
     "key": "KONASARA",
     "base_color": "#319e36",
     "text_color": "#FFF",
